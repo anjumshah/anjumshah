@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjumshah
-- 👀 I’m interested in AI driven Petrophysics
-- 🌱 I’m currently learning processing logs in Python
-- 💞️ I’m looking to collaborate on ML in Petrophysics
+- 👀 I’m interested in AI and its utilization in Geoscience
+- 🌱 I’m currently learning utility of AI in sub-surface interpretation 
+- 💞️ I’m looking to collaborate on AI and sub-surface interpretations
 - 📫 How to reach me anjumbukhari@gmail.com
 
 <!---
